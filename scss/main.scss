@@ -1,0 +1,14 @@
+//import fonts
+
+@import './resets';
+@import './variables';
+
+/*base styles & headlines */
+body {
+  width: 100%;
+  margin: 0 auto;
+  background-color: $primary-color;
+  color: $font-color;
+  // background-color
+  // font-family
+}
