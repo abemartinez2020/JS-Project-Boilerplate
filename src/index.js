@@ -1,8 +1,7 @@
 import { secondFunction } from './utitlites';
+
 alert('hello');
 
-const myFunction = () => {
-  return  secondFunction();
-}
+const myFunction = () => secondFunction();
 
 console.log(myFunction());
