@@ -1,5 +1,7 @@
 # Boilerplate For Simple JavaScript Projects
 
+- Small projects in which you need to use a bundler (webpack) and a transcompiler (Babel).
+
 ## Steps to setup boilerplate
 
 ### Note: make sure you have Node.js installed.
