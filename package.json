@@ -1,32 +1,21 @@
 {
-  "name": "webpack-boiler",
+  "name": "teloslabs-challenge",
   "version": "1.0.0",
-  "description": "Creating a babel and webpack boilerplate",
-  "main": "index.js",
-  "//": "module",
- "jest": {
-    		"verbose": true,
-   				 "testEnvironment": "jest-environment-node",
-   		 "transform": {}
- 	 },
+  "description": "",
+  "main": "webpack.config.js",
   "scripts": {
     "dev-server": "webpack serve --mode development",
-    "build": "webpack --mode production",
-    "test": "node --experimental-vm-modules node_modules/jest/bin/jest.js --coverage"
+    "build": "webpack --mode production"
   },
   "keywords": [],
   "author": "Abrahan Martinez",
   "license": "ISC",
   "devDependencies": {
-    "@babel/core": "^7.14.3",
-    "@babel/preset-env": "^7.14.4",
+    "@babel/core": "^7.15.5",
+    "@babel/preset-env": "^7.15.4",
     "babel-loader": "^8.2.2",
     "babel-plugin-transform-object-rest-spread": "^6.26.0",
-    "eslint": "^7.28.0",
-    "eslint-config-airbnb-base": "^14.2.1",
-    "eslint-plugin-import": "^2.23.4",
-    "jest": "^27.0.4",
-    "regenerator-runtime": "^0.13.7",
+    "regenerator-runtime": "^0.13.9",
     "webpack": "^5.38.1",
     "webpack-cli": "^4.7.0",
     "webpack-dev-server": "^3.11.2"
