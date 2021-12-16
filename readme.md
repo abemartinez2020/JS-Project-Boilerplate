@@ -6,7 +6,7 @@
 
 ### Note: make sure you have Node.js installed.
 
-1. Clone repository from: xxxx
+1. Clone repository from: [https://github.com/abemartinez2020/JS-Project-Boilerplate](https://github.com/abemartinez2020/JS-Project-Boilerplate)
 2. Open terminal, go to the directory where you want to clone the repository into, and enter following command:`git clone xxxx `
 3. Install project and dev dependencies by running the following command in the terminal: `npm install `
 
